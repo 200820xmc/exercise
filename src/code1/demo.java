@@ -10,7 +10,7 @@ public class demo {
             if (wine > 2 ){
                 System.out.println("女婿牛逼！！！！！");
             }else{
-                System.out.println("你也配娶我女儿？？？？");
+                System.out.println("你也配娶我女儿l" +"？？？？");
             }
         }
     }
