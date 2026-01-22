@@ -15,7 +15,7 @@ public class huiwenshu {
         }
         System.out.println(sum);
         if(sum == temp){
-            System.out.println("是回文数");
+            System.out.println("是1回文数");
         }
         else{
             System.out.println("不是回文数");
